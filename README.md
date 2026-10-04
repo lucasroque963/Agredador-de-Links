@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto1 </h1>
+<h1 align="center"> Agregador de links</h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
